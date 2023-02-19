@@ -233,3 +233,16 @@ footer {
   text-align: center;
   padding: 0 var(--padding);
 }
+footer p {
+  color: var(--darkGrayBlue);
+}
+footer p a {
+  color: var(--darkGrayBlue);
+  text-decoration: none;
+  font-weight: 700;
+  opacity: 0.6;
+  transition: all 0.2s ease;
+}
+footer p a:hover {
+  color: var(--greenTeal);
+}
