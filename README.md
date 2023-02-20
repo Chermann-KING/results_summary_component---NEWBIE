@@ -16,12 +16,12 @@ Thanks for taking a look at my solution to this front-end coding challenge.
 
 ### Screenshot
 
-![](URL_PRINTSCREEN)
+![](./images/results-summary-component-print-screen.png)
 
 ### Links
 
-- Solution URL: URL_REPO
-- Live Site URL: URL_LIVE_SITE
+- Solution URL: https://github.com/Chermann-KING/results_summary_component---NEWBIE
+- Live Site URL: https://chermann-king.github.io/results_summary_component---NEWBIE/
 
 ### Built with
 
